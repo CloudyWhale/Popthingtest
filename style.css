@@ -30,12 +30,10 @@ button {
 
 @keyframes open {
   from {
-    display: none;
     transform: scale(0);
   }
 
   to {
-    display: block;
     transform: scale(1);
   }
 }
