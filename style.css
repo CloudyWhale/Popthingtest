@@ -55,16 +55,6 @@ button {
   100% {transform: scale(0.75); opacity:0;}
 }
 
-#parent{
-  z-index: 2;
-  margin: 0;
-  padding: 0;
-  min-width: 100vh;
-  height: 100%;
-  display: grid;
-  place-items: center;
-}
-
 #close {
   cursor: pointer;
   float:right;
